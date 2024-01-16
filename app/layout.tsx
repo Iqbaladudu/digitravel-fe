@@ -9,8 +9,8 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  title: "Hanania Turizm",
-  description: "Explore World with Hanania Turizm",
+  title: "Digitravel Tour Service",
+  description: "Explore World with Us!",
 };
 
 export default function RootLayout({

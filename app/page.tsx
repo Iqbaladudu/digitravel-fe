@@ -10,7 +10,7 @@ export default function Home() {
       <Hero />
       <Destination />
       <Services />
-      <Gallery />
+      {/* <Gallery /> */}
     </main>
   );
 }

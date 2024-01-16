@@ -48,7 +48,8 @@ const Footer = () => {
       </div>
       <div>
         <p>
-          Copyright © 2023 - All right reserved by PT. Hanania Turizm Global
+          Copyright © 2023 - All right reserved by PT. Kecerdasan Teknologi
+          Indonesia
         </p>
       </div>
     </footer>

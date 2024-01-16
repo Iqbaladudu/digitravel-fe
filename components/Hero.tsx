@@ -39,9 +39,9 @@ function Hero() {
       <div className="flex justify-self-center justify-center items-center flex-col md:flex-row">
         <div className="flex-1 font-bold">
           <p className="text-[15px] lg:text-[20px]">Best Travel Experience</p>
-          <p className="text-[35px] lg:text-[60px] xl:text-[85px]">
+          <p className="text-[35px] lg:text-[55px] xl:text-[75px]">
             Jelajahi Berbagai Tempat Bersama{" "}
-            <span className="text-ht-orange">Hanania Turizm</span>
+            <span className="text-ht-orange">Digitravel</span>
           </p>
           <div className="flex flex-row gap-4">
             <button className="btn-sm w-40 lg:w-auto rounded-md lg:btn lg:btn-accent btn-accent shadow-lg shadow-accent/30 lg:text-white text-white">
@@ -56,7 +56,7 @@ function Hero() {
           <Image
             className=" md:end-32 md:top-12"
             src={travelIlustration}
-            alt="Hanannia Turizm"
+            alt="Digitravel"
           />
         </div>
       </div>

@@ -34,7 +34,7 @@ export function NavBar() {
       className={`flex font-bold flex-wrap flex-row justify-between items-center z-50 ${stickyClass}`}
     >
       <div>
-        <Image src={logo} alt="Logo Hanania Turizm" />
+        <p className="text-2xl font-bold text-ht-dark-blue">DIGITRAVEL</p>
       </div>
       <div className="md:flex-row md:gap-5 hidden md:visible md:flex">
         {NavLinkData.map(({ href, label, status }, index) => (
